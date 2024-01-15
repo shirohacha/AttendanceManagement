@@ -1,5 +1,5 @@
 import "./App.css";
-import "./js/suzi.js";
+import "./js/moji.js";
 
 function App() {
   return (
